@@ -1,7 +1,7 @@
 ## Taxon classification on protein or nucleotide database
 
 ### Adrienn Gréta Tóth, István Csabai, Eszter Krikó, Róbert Farkas, László Makrai, Norbert Solymosi
-#### Univeristy of Veterinary Medicine Budapest, Eötvös Loránd University
+#### University of Veterinary Medicine Budapest, Eötvös Loránd University
 
 
 In clinical metagenomics, microbial profiling and pathogen identification are both important fields of use. In both areas, the taxon classification of the next generation sequencing short reads can be performed using numerous tools and databases. Some alignment tools used before the reads’ assignment to their taxa are nucleotide-based, while others are protein-sequence-based. Analysing animal gut microbiomes, we found that various types of databases can produce different results. 
